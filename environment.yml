@@ -1,0 +1,7 @@
+name: openms
+channels:
+    - openms
+    - conda-forge
+dependencies:
+    - xeus-cling
+    - openms
